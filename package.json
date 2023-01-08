@@ -25,6 +25,7 @@
     "bugs": {
       "url": "https://github.com/Vineeth-07/Online_Voting_Application/issues"
     },
+    
     "homepage": "https://github.com/Vineeth-07/Online_Voting_Application#readme",
     "devDependencies": {
       "cheerio": "^1.0.0-rc.12",
